@@ -30,7 +30,7 @@ spec:
     releaseOperatorDeploy: true
     version: 3.2.1
   - name: calico
-    version: 3.16.9
+    version: 3.15.3
   - name: cert-operator
     releaseOperatorDeploy: true
     version: 1.0.1
