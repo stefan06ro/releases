@@ -146,19 +146,23 @@ to all Giant Swarm installations.
   - v20.0
     - [v20.0.0](https://github.com/giantswarm/releases/tree/master/azure/v20.0.0)
 
+- v16
+  - v16.0
+    - [v16.0.0](https://github.com/giantswarm/releases/tree/master/azure/v16.0.0)
+
 - v15
   - v15.0
     - [v15.0.0](https://github.com/giantswarm/releases/tree/master/azure/v15.0.0)
     - [v15.0.0-beta2](https://github.com/giantswarm/releases/tree/master/azure/archived/v15.0.0-beta2)
     - [v15.0.0-beta1](https://github.com/giantswarm/releases/tree/master/azure/archived/v15.0.0-beta1)
   - v15.1
-    - [v15.1.0](https://github.com/giantswarm/releases/tree/master/azure/v15.1.0)
     - [v15.1.1](https://github.com/giantswarm/releases/tree/master/azure/v15.1.1)
+    - [v15.1.0](https://github.com/giantswarm/releases/tree/master/azure/archived/v15.1.0)
 
 - v14
   - v14.1
     - [v14.1.7](https://github.com/giantswarm/releases/tree/master/azure/v14.1.7)
-    - [v14.1.6](https://github.com/giantswarm/releases/tree/master/azure/v14.1.6)
+    - [v14.1.6](https://github.com/giantswarm/releases/tree/master/azure/archived/v14.1.6)
     - [v14.1.5](https://github.com/giantswarm/releases/tree/master/azure/archived/v14.1.5)
     - [v14.1.4](https://github.com/giantswarm/releases/tree/master/azure/archived/v14.1.4)
     - [v14.1.3](https://github.com/giantswarm/releases/tree/master/azure/archived/v14.1.3)
@@ -226,6 +230,10 @@ to all Giant Swarm installations.
 
 ## KVM
 
+- v16
+  - v16.0
+    - [v16.0.0](https://github.com/giantswarm/releases/tree/master/kvm/v16.0.0)
+
 - v15
   - v15.0
     - [v15.0.0](https://github.com/giantswarm/releases/tree/master/kvm/v15.0.0)
@@ -233,14 +241,14 @@ to all Giant Swarm installations.
 - v14
   - v14.1
     - [v14.1.2](https://github.com/giantswarm/releases/tree/master/kvm/v14.1.2)
-    - [v14.1.1](https://github.com/giantswarm/releases/tree/master/kvm/v14.1.1)
+    - [v14.1.1](https://github.com/giantswarm/releases/tree/master/kvm/archived/v14.1.1)
     - [v14.1.0](https://github.com/giantswarm/releases/tree/master/kvm/v14.1.0)
   - v14.0
     - [v14.0.0](https://github.com/giantswarm/releases/tree/master/kvm/v14.0.0)
 
 - v13
   - v13.1
-    - [v13.1.0](https://github.com/giantswarm/releases/tree/master/kvm/v13.1.0)
+    - [v13.1.0](https://github.com/giantswarm/releases/tree/master/kvm/archived/v13.1.0)
   - v13.0
     - [v13.0.1](https://github.com/giantswarm/releases/tree/master/kvm/archived/v13.0.1)
     - [v13.0.0](https://github.com/giantswarm/releases/tree/master/kvm/archived/v13.0.0)
